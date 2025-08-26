@@ -7,7 +7,7 @@ Welcome to the **Data Science Portfolio** project, which demonstrates a step-by-
 
 This project aims to forecast average yearly prices for various fruits and vegetables using historical data (2017–2022). It employs a linear regression model and visual analytics to support decision-making in cost control for catering businesses.
 
-📁 Dataset: [Kaggle - Fruit and Vegetable Prices UK](https://www.kaggle.com/datasets/datota/fruit-and-vegatablefrastructure
+📁 Dataset: [Kaggle - Fruit and Vegetable Prices UK](https://www.kaggle.com/datasets/datota/fruit-and-vegatablefrastructure)
 
 - **Python & Pandas** for data manipulation
 - **kagglehub** for automated dataset import
@@ -23,10 +23,12 @@ This project aims to forecast average yearly prices for various fruits and veget
 ## 📈 Visualisations
 
 ### 1. Multi-line Chart
-Displays price trends and predictions for each item from 2017 to 2023.
+Displays price trends and predictions for each item from 2017 to 2023 (predicted).
+<img width="602" height="172" alt="Plot1" src="https://github.com/user-attachments/assets/b68a3646-1cf7-4843-856b-1cea09f96f10" />
 
 ### 2. Regression Line Plot
 Shows historical data and fitted regression lines for selected items.
+<img width="627" height="416" alt="Plot2" src="https://github.com/user-attachments/assets/412c67fe-d16d-43fd-9c94-5df82a6c7d82" />
 
 ## 📊 Model Performance
 
