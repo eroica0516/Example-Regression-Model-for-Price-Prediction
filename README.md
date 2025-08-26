@@ -27,7 +27,7 @@ Displays price trends and predictions for each item from 2017 to 2023 (predicted
 <img width="602" height="172" alt="Plot1" src="https://github.com/user-attachments/assets/b68a3646-1cf7-4843-856b-1cea09f96f10" />
 
 ### 2. Regression Line Plot
-Shows historical data and fitted regression lines for selected items.
+Shows historical data and fitted regression lines for selected items.(/assets/img/Plot1.png)
 <img width="627" height="416" alt="Plot2" src="https://github.com/user-attachments/assets/412c67fe-d16d-43fd-9c94-5df82a6c7d82" />
 
 ## 📊 Model Performance
@@ -60,5 +60,3 @@ Published under the name: **Data Science Portfolio**
 ---
 
 📬 For inquiries or feedback, feel free to open an issue or contact via the GitHub portfolio page.
-
-# Example-Regression-Model-for-Price-Prediction
